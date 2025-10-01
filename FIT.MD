@@ -59,8 +59,8 @@ Allow the candidate a few minutes to settle in. Do not rush straight into high-s
 
 ### Interpretation with Care
 
-❌ “The candidate was hesitant — they must lack confidence.” <br>
-✅ “The candidate was initially nervous but warmed up as the discussion progressed.”
+> ❌ “The candidate was hesitant — they must lack confidence.” <br>
+> ✅ “The candidate was initially nervous but warmed up as the discussion progressed.”
 
 ### Principle of Humanity
 Remember that the interview is not a natural professional environment. It is artificial and asymmetric. A fair interviewer actively works to bridge the gap, helping the candidate show their true abilities.
