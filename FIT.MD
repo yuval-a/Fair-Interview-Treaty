@@ -71,16 +71,20 @@ A fair interview respects the balance between abstraction and specificity, and e
 ### Avoid Vagueness 
 Questions should not be overly broad or undefined;
 
-❌ > “Tell me about design.”
-✅ > “Which design pattern would you use to solve this concurrency problem, and why?”
+❌ 
+> “Tell me about design.”
+✅ 
+> “Which design pattern would you use to solve this concurrency problem, and why?”
 
 If an interviewer feels an answer is out of the scope of the question - mention it, and gently try to guide the candidate back to the real scope; Example:
 > "That’s a good point about distributed queues. For this problem though, let’s keep it in a single-node context - how would you design it then?".
 
 ### Avoid Trivial Trivia Questions should not hinge on obscure, easily searchable facts that don’t demonstrate reasoning or engineering skills;
 
-❌ > “What is the exact CLI flag for disabling XYZ in Docker?”
-✅ > “How would you approach debugging a container that fails to start?”
+❌ 
+> “What is the exact CLI flag for disabling XYZ in Docker?”
+✅ 
+> “How would you approach debugging a container that fails to start?”
 
 
 ### Balanced Spectrum
