@@ -38,7 +38,34 @@ If the role combines domains (e.g.: full-stack, frontend+ops, backend+data), the
 Candidates should not be judged against expectations that were never communicated.
 
 # 2. Interview
-## 2.1 Question Clarity and Fair Framing
+
+## 2.1 Stress, Wellness and Psychological Safety
+A fair interview acknowledges that interviews are inherently stressful environments and that performance under stress does not fully reflect a candidate’s professional capabilities.
+
+### Stress Distortion
+Nervousness, hesitation, or small slips may occur under pressure. These should not be mistaken for lack of competence or depth.
+
+### Adjustment Time
+Allow the candidate a few minutes to settle in. Do not rush straight into high-stakes problem solving without orientation.
+
+✅ Start with lighter context-setting questions.
+✅ Briefly explain the structure of the interview at the beginning.
+
+### Creating Comfort
+- Small efforts to reduce anxiety can unlock more authentic performance:
+- Offering water or a short pause.
+- Allowing time for note-taking or whiteboard setup.
+- Acknowledging that "It’s normal to think aloud" or "take your time."
+
+### Interpretation with Care
+
+❌ “The candidate was hesitant — they must lack confidence.”
+✅ “The candidate was initially nervous but warmed up as the discussion progressed.”
+
+### Principle of Humanity
+Remember that the interview is not a natural professional environment. It is artificial and asymmetric. A fair interviewer actively works to bridge the gap, helping the candidate show their true abilities.
+
+## 2.2 Question Clarity and Fair Framing
 A fair interview respects the balance between abstraction and specificity, and ensures questions are purposeful, clear, and aligned with engineering reality.
 
 ### Avoid Vagueness 
@@ -73,7 +100,7 @@ Especially for senior engineers, questions are a way of scoping the problem spac
 ### Clarity of Expectations
 Communicate what kind of answer you’re seeking (conceptual, architectural, implementation detail) before judging the response.
 
-## 2.2 Fair Problem Presentation and Humane Dialogue
+## 2.3 Fair Problem Presentation and Humane Dialogue
 A fair interview is not an interrogation but a professional dialogue between colleagues.
 
 ### Clarity in Problem Statements
@@ -95,7 +122,7 @@ An interviewer does not, and cannot, know everything. If a candidate introduces 
 The interview should be conducted as a conversation between peers exploring a technical subject. It is not a performance stage, nor a power trip. Fairness means listening, engaging, and co-reasoning.
 
 
-## 2.3 Respecting Depth, Avoiding Trivialization
+## 2.4 Respecting Depth, Avoiding Trivialization
 A fair interview recognizes that the level of questioning signals respect for the candidate’s experience.
 
 ### Basic Questions
@@ -117,13 +144,40 @@ For experienced candidates, the main interview should focus on systemic reasonin
 Interview depth should naturally progress once the baseline is established. A fair interview moves forward, it does not loop endlessly in trivia.
 
 ## 3. Post Interview
+### 3.1 Home Assignments
+A fair interview ensures that home assignments are reasonable, relevant, and respectful of the candidate’s time.
+
+#### Right Scope
+Assignments must not simulate building entire products;
+❌ “Build a full e-commerce platform". 
+
+They should focus on specific skills relevant to the role; 
+✅ "Implement a product listing component with filtering and sorting".
+
+#### Clarity of Demands
+The requirements must be clearly written and free from hidden expectations. Ambiguity wastes candidate time and creates unfair evaluation.
+
+#### Respect for Time
+Assignments should be appropriately timed:
+* A short “demo exercise” (≤2 hours) may be acceptable - if demands are shown in advance so candidates can plan.
+* Longer assignments must allow realistic time (a few days, with flexibility for employed candidates).
+
+#### Not a Test of Endurance
+Overly short time limits (e.g. “do this in 90 minutes”) test robotic speed under pressure, not professional skill. Real engineers think, design, test, and revise — they are not code-generating machines.
+
+#### Relevance to Role
+Every assignment must connect directly to the responsibilities of the role. Off-topic or boilerplate tasks disrespect both candidate and interviewer time.
+
+#### Principle of Proportionality
+The effort requested should be proportional to the stage of the process. Early screening ≠ multi-day projects. 
+Depth should increase only as mutual interest grows.
 
 ### 3.1 Feedback
 A fair interview demands language that is professional, neutral, and free from ad hominem judgment.
 #### No Personal Labels
 Feedback must never reduce a candidate to personality traits or sweeping judgments.
 
-❌ “You come across as arrogant.”
+❌ “You come across as arrogant."
 ✅ “When asked about scaling, your response focused on implementation details but did not address system-level trade-offs.”
 
 #### Describe Behavior, Not Identity
