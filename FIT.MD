@@ -21,11 +21,11 @@ The company must outline the responsibilities and expected scope of work without
 While tech roles often overlap, the core domains should be specified in advance
 
 #### Suggested domains segmentation for Web Development roles
-* Front-End Engineering: user interfaces, client-side performance, browser technologies.
-* Back-End Engineering: server-side logic, APIs, databases (query optimizations), system integrations.
-* Operations (DevOps / Cloud): Infrastructure, deployment pipelines, monitoring, observability, scalability.
-* Data Engineering / Data Science: analytics, ML models, pipelines, business intelligence.
-* Cross-Cutting Practices (explicitly state whether they are expected responsibilities or handled by other teams):
+* **Front-End Engineering**: user interfaces, client-side performance, browser technologies.
+* **Back-End Engineering**: server-side logic, APIs, databases (query optimizations), system integrations.
+* **Operations (DevOps / Cloud)**: Infrastructure, deployment pipelines, monitoring, observability, scalability.
+* **Data Engineering / Data Science**: analytics, ML models, pipelines, business intelligence.
+* **Cross-Cutting Practices** (explicitly state whether they are expected responsibilities or handled by other teams):
   - Testing (unit, integration, end-to-end, automation).
   - CI/CD (continuous integration, deployment pipelines, release management).
   - Security & Compliance (vulnerability management, access controls).
