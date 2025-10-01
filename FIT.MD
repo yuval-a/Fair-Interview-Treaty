@@ -177,19 +177,19 @@ A fair interview demands language that is professional, neutral, and free from a
 #### No Personal Labels
 Feedback must never reduce a candidate to personality traits or sweeping judgments.
 
-> ❌ "You come across as arrogant." 
+> ❌ "You come across as arrogant." <br>
 > ✅ "When asked about scaling, your response focused on implementation details but did not address system-level trade-offs."
 
 #### Describe Behavior, Not Identity
 Language should reference what was observed in the interview context, not imply a fixed trait of the person.
 
-> ❌ "You are not a deep thinker."
+> ❌ "You are not a deep thinker." <br>
 > ✅ "In the debugging exercise, the exploration stayed on surface symptoms without moving toward root cause analysis."
 
 #### Avoid Absolutes
 Statements like “You always…” or “You never…” are unfair and inaccurate. Instead, specify the particular instance.
 
-> ❌ "You never answer directly."
+> ❌ "You never answer directly." <br>
 > ✅ "In the API design question, you first gave an abstract explanation without a concrete example. Asking for both might have strengthened your answer."
 
 #### Respect in Feedback:
