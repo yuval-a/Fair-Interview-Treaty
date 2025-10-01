@@ -14,7 +14,7 @@ The goal of **FIT** is simple: to transform recruitment from a chaotic filter in
 ### Role Description
 A fair interview begins with a clear and truthful description of the role;
 - **Defined Responsibilities**: The company must outline the responsibilities and expected scope of work without vagueness or misdirection.
-- **Domain Boundaries**: While tech roles often overlap, the core domains should be specified in advance:
+- **Domain Boundaries**: While tech roles often overlap, the core domains should be specified in advance <br>
 **Suggested domains segmentation for Web Development roles**
 * Front-End Engineering: user interfaces, client-side performance, browser technologies.
 * Back-End Engineering: server-side logic, APIs, databases (query optimizations), system integrations.
