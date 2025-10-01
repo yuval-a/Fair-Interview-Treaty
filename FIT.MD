@@ -71,30 +71,26 @@ A fair interview respects the balance between abstraction and specificity, and e
 ### Avoid Vagueness 
 Questions should not be overly broad or undefined;
 
-❌ 
-> "Tell me about design." <br>
-✅ 
-> "Which design pattern would you use to solve this concurrency problem, and why?"
+
+> ❌ "Tell me about design." <br>
+> ✅ "Which design pattern would you use to solve this concurrency problem, and why?"
 
 If an interviewer feels an answer is out of the scope of the question - mention it, and gently try to guide the candidate back to the real scope; Example:
 > "That’s a good point about distributed queues. For this problem though, let’s keep it in a single-node context - how would you design it then?".
 
 ### Avoid Trivial Trivia Questions should not hinge on obscure, easily searchable facts that don’t demonstrate reasoning or engineering skills;
 
-❌ 
-> “What is the exact CLI flag for disabling XYZ in Docker?” <br>
-✅ 
-> “How would you approach debugging a container that fails to start?”
-
+> ❌ "What is the exact CLI flag for disabling XYZ in Docker?" <br>
+> ✅ "How would you approach debugging a container that fails to start?"
 
 ### Balanced Spectrum
 Interviewers must recognize the difference between answers that are too abstract or too specific, and guide the candidate accordingly.
 
 * If an answer is too abstract → ask: 
-> “Can you give a concrete example?”
+> "Can you give a concrete example?:
 
 * If an answer is too specific → ask: 
-> “Can you zoom out and explain the broader principle?”
+> "Can you zoom out and explain the broader principle?"
 
 
 ### Encourage Curiosity 
@@ -181,20 +177,20 @@ A fair interview demands language that is professional, neutral, and free from a
 #### No Personal Labels
 Feedback must never reduce a candidate to personality traits or sweeping judgments.
 
-❌ “You come across as arrogant."
-✅ “When asked about scaling, your response focused on implementation details but did not address system-level trade-offs.”
+> ❌ “You come across as arrogant."
+> ✅ “When asked about scaling, your response focused on implementation details but did not address system-level trade-offs.”
 
 #### Describe Behavior, Not Identity
 Language should reference what was observed in the interview context, not imply a fixed trait of the person.
 
-❌ “You are not a deep thinker.”
-✅ “In the debugging exercise, the exploration stayed on surface symptoms without moving toward root cause analysis.”
+> ❌ “You are not a deep thinker.”
+> ✅ “In the debugging exercise, the exploration stayed on surface symptoms without moving toward root cause analysis.”
 
 #### Avoid Absolutes
 Statements like “You always…” or “You never…” are unfair and inaccurate. Instead, specify the particular instance.
 
-❌ “You never answer directly.”
-✅ “In the API design question, you first gave an abstract explanation without a concrete example. Asking for both might have strengthened your answer.”
+> ❌ “You never answer directly.”
+> ✅ “In the API design question, you first gave an abstract explanation without a concrete example. Asking for both might have strengthened your answer.”
 
 #### Respect in Feedback:
 Whether verbal or written, feedback should remain constructive, situational, and tied to the requirements of the role — never to personal worth or identity.
