@@ -48,7 +48,7 @@ Nervousness, hesitation, or small slips may occur under pressure. These should n
 ### Adjustment Time
 Allow the candidate a few minutes to settle in. Do not rush straight into high-stakes problem solving without orientation.
 
-✅ Start with lighter context-setting questions.
+✅ Start with lighter context-setting questions. <br>
 ✅ Briefly explain the structure of the interview at the beginning.
 
 ### Creating Comfort
