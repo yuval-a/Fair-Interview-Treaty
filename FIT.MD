@@ -59,7 +59,7 @@ Allow the candidate a few minutes to settle in. Do not rush straight into high-s
 
 ### Interpretation with Care
 
-❌ “The candidate was hesitant — they must lack confidence.”
+❌ “The candidate was hesitant — they must lack confidence.” <br>
 ✅ “The candidate was initially nervous but warmed up as the discussion progressed.”
 
 ### Principle of Humanity
