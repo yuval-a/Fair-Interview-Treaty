@@ -149,10 +149,10 @@ A fair interview ensures that home assignments are reasonable, relevant, and res
 
 #### Right Scope
 Assignments must not simulate building entire products;
-❌ “Build a full e-commerce platform". 
+> ❌ “Build a full e-commerce platform". 
 
 They should focus on specific skills relevant to the role; 
-✅ "Implement a product listing component with filtering and sorting".
+> ✅ "Implement a product listing component with filtering and sorting".
 
 #### Clarity of Demands
 The requirements must be clearly written and free from hidden expectations. Ambiguity wastes candidate time and creates unfair evaluation.
@@ -177,20 +177,20 @@ A fair interview demands language that is professional, neutral, and free from a
 #### No Personal Labels
 Feedback must never reduce a candidate to personality traits or sweeping judgments.
 
-> ❌ “You come across as arrogant."
-> ✅ “When asked about scaling, your response focused on implementation details but did not address system-level trade-offs.”
+> ❌ "You come across as arrogant." 
+> ✅ "When asked about scaling, your response focused on implementation details but did not address system-level trade-offs."
 
 #### Describe Behavior, Not Identity
 Language should reference what was observed in the interview context, not imply a fixed trait of the person.
 
-> ❌ “You are not a deep thinker.”
-> ✅ “In the debugging exercise, the exploration stayed on surface symptoms without moving toward root cause analysis.”
+> ❌ "You are not a deep thinker."
+> ✅ "In the debugging exercise, the exploration stayed on surface symptoms without moving toward root cause analysis."
 
 #### Avoid Absolutes
 Statements like “You always…” or “You never…” are unfair and inaccurate. Instead, specify the particular instance.
 
-> ❌ “You never answer directly.”
-> ✅ “In the API design question, you first gave an abstract explanation without a concrete example. Asking for both might have strengthened your answer.”
+> ❌ "You never answer directly."
+> ✅ "In the API design question, you first gave an abstract explanation without a concrete example. Asking for both might have strengthened your answer."
 
 #### Respect in Feedback:
 Whether verbal or written, feedback should remain constructive, situational, and tied to the requirements of the role — never to personal worth or identity.
