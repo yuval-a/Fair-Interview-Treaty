@@ -14,9 +14,9 @@ The goal of **FIT** is simple: to transform recruitment from a chaotic filter in
 ### Role Description
 A fair interview begins with a clear and truthful description of the role;
 - **Defined Responsibilities**: The company must outline the responsibilities and expected scope of work without vagueness or misdirection.
-
 - **Domain Boundaries**: While tech roles often overlap, the core domains should be specified in advance:
-**Suggested domain segmentation for Web Development**
+
+Suggested domain segmentation for Web Development**
 * Front-End Engineering: user interfaces, client-side performance, browser technologies.
 * Back-End Engineering: server-side logic, APIs, databases (query optimizations), system integrations.
 - Operations (DevOps / Cloud): Infrastructure, deployment pipelines, monitoring, observability, scalability.
@@ -26,7 +26,7 @@ A fair interview begins with a clear and truthful description of the role;
   * CI/CD (continuous integration, deployment pipelines, release management).
   * Security & Compliance (vulnerability management, access controls).
 
-- Transparency in Mix: If the role combines domains (e.g., full-stack, frontend+ops, backend+data), the weighting should be communicated — e.g., “70% front-end, 30% backend.”
+- Transparency in Mix: If the role combines domains (e.g., full-stack, frontend+ops, backend+data), the weighting should be communicated — e.g.: > "70% front-end, 30% backend."
 
 
 Candidate Respect: Candidates should not be judged against expectations that were never communicated.
