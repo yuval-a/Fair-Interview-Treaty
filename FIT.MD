@@ -9,12 +9,17 @@ Candidates can testify whether their experience reflected **FIT** principles, pr
 
 The goal of **FIT** is simple: to transform recruitment from a chaotic filter into a fair, humane, and reliable process — one that honors the skills, dignity, and time of every participant.
 
-## Pre Interview
+# 1. Pre Interview
 
-### Role Description
+## 1.1 Role Description
 A fair interview begins with a clear and truthful description of the role;
-- **Defined Responsibilities**: The company must outline the responsibilities and expected scope of work without vagueness or misdirection.
-- **Domain Boundaries**: While tech roles often overlap, the core domains should be specified in advance <br>
+
+### Defined Responsibilities 
+The company must outline the responsibilities and expected scope of work without vagueness or misdirection.
+
+### Domain Boundaries 
+While tech roles often overlap, the core domains should be specified in advance
+
 #### Suggested domains segmentation for Web Development roles
 * Front-End Engineering: user interfaces, client-side performance, browser technologies.
 * Back-End Engineering: server-side logic, APIs, databases (query optimizations), system integrations.
@@ -25,6 +30,117 @@ A fair interview begins with a clear and truthful description of the role;
   - CI/CD (continuous integration, deployment pipelines, release management).
   - Security & Compliance (vulnerability management, access controls).
 
-- *Transparency in Mix*: If the role combines domains (e.g.: full-stack, frontend+ops, backend+data), the weighting should be communicated, e.g.: 
+#### Transparency in Mix 
+If the role combines domains (e.g.: full-stack, frontend+ops, backend+data), the weighting should be communicated, e.g.: 
 > "70% front-end, 30% backend".
-- Candidate Respect: Candidates should not be judged against expectations that were never communicated.
+
+#### Candidate Respect
+Candidates should not be judged against expectations that were never communicated.
+
+# 2. Interview
+## 2.1 Question Clarity and Fair Framing
+A fair interview respects the balance between abstraction and specificity, and ensures questions are purposeful, clear, and aligned with engineering reality.
+
+### Avoid Vagueness 
+Questions should not be overly broad or undefined;
+
+❌ > “Tell me about design.”
+✅ > “Which design pattern would you use to solve this concurrency problem, and why?”
+
+If an interviewer feels an answer is out of the scope of the question - mention it, and gently try to guide the candidate back to the real scope; Example:
+> "That’s a good point about distributed queues. For this problem though, let’s keep it in a single-node context - how would you design it then?".
+
+### Avoid Trivial Trivia Questions should not hinge on obscure, easily searchable facts that don’t demonstrate reasoning or engineering skills;
+
+❌ > “What is the exact CLI flag for disabling XYZ in Docker?”
+✅ > “How would you approach debugging a container that fails to start?”
+
+
+### Balanced Spectrum
+Interviewers must recognize the difference between answers that are too abstract or too specific, and guide the candidate accordingly.
+
+* If an answer is too abstract → ask: 
+> “Can you give a concrete example?”
+
+* If an answer is too specific → ask: 
+> “Can you zoom out and explain the broader principle?”
+
+
+### Encourage Curiosity 
+Candidates asking clarifying questions should be seen as demonstrating professional thinking, not ignorance;
+Especially for senior engineers, questions are a way of scoping the problem space. Their mental model is wide, so they must "prism in" toward the relevant context and scope.
+
+### Clarity of Expectations
+Communicate what kind of answer you’re seeking (conceptual, architectural, implementation detail) before judging the response.
+
+## 2.2 Fair Problem Presentation and Humane Dialogue
+A fair interview is not an interrogation but a professional dialogue between colleagues.
+
+### Clarity in Problem Statements
+When presenting a programming or algorithmic challenge, the interviewer must clearly define the problem, inputs, outputs, and constraints. Ambiguity should be minimized, and candidates should be encouraged to ask clarifying questions.
+
+### Respect Different Journeys
+Even within the same field, no two engineers share the same path. Candidates may arrive at solutions through different frameworks, mental models, or experiences. These differences should be welcomed as diversity of thought, not treated as deviation from a “textbook” path.
+
+### Beyond Trivia
+The purpose of technical questions is to assess reasoning and problem-solving, not to extract textbook phrases or obscure trivia.
+
+### Seek Strengths, Not Conformity
+ Every candidate has strengths. The interviewer’s role is to discover and surface them, then assess whether they align with the role - not to force the candidate into a pre-shaped mold.
+
+### Humility of the Interviewer
+An interviewer does not, and cannot, know everything. If a candidate introduces a concept, tool, or perspective unfamiliar to the interviewer, the fair response is to admit it, remain open, and use the moment to observe how the candidate explains and teaches. This can reveal valuable collaboration skills — and create a genuine opportunity for shared learning.
+
+### Colleague, not Gatekeeper
+The interview should be conducted as a conversation between peers exploring a technical subject. It is not a performance stage, nor a power trip. Fairness means listening, engaging, and co-reasoning.
+
+
+## 2.3 Respecting Depth, Avoiding Trivialization
+A fair interview recognizes that the level of questioning signals respect for the candidate’s experience.
+
+### Basic Questions
+Fundamental, or “trivial” questions can serve as quick sanity checks - to ensure shared baseline knowledge and communication.
+
+#### Use Sparingly 
+Such questions should be brief, limited, and only in early stages of the process. They are not the substance of a senior interview.
+
+#### Insult by Repetition 
+Once it is clear that the candidate passes the sanity check, continuing to linger in the trivial realm is insulting, demotivating, and signals distrust of their competence.
+
+#### Impact on Candidates
+Some seniors may become defensive, some may quietly swallow the insult; Both reactions are legitimate - but both are avoidable if the interviewer respects depth.
+
+### Calibrate to Seniority
+For experienced candidates, the main interview should focus on systemic reasoning, architectural trade-offs, debugging approaches, leadership in engineering decisions - not rote syntax or boilerplate knowledge.
+
+### Principle of Progression
+Interview depth should naturally progress once the baseline is established. A fair interview moves forward, it does not loop endlessly in trivia.
+
+## 3. Post Interview
+
+### 3.1 Feedback
+A fair interview demands language that is professional, neutral, and free from ad hominem judgment.
+#### No Personal Labels
+Feedback must never reduce a candidate to personality traits or sweeping judgments.
+
+❌ “You come across as arrogant.”
+✅ “When asked about scaling, your response focused on implementation details but did not address system-level trade-offs.”
+
+#### Describe Behavior, Not Identity
+Language should reference what was observed in the interview context, not imply a fixed trait of the person.
+
+❌ “You are not a deep thinker.”
+✅ “In the debugging exercise, the exploration stayed on surface symptoms without moving toward root cause analysis.”
+
+#### Avoid Absolutes
+Statements like “You always…” or “You never…” are unfair and inaccurate. Instead, specify the particular instance.
+
+❌ “You never answer directly.”
+✅ “In the API design question, you first gave an abstract explanation without a concrete example. Asking for both might have strengthened your answer.”
+
+#### Respect in Feedback:
+Whether verbal or written, feedback should remain constructive, situational, and tied to the requirements of the role — never to personal worth or identity.
+
+#### Principle of Humanity:
+Candidates are professionals, not students being graded. Respectful language ensures dignity and fairness, even when declining.
+
